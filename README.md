@@ -27,51 +27,40 @@ Massar Clone is a school management system that lets students, teachers, and par
 
 Massar Clone is designed to digitize school management and provide a single platform for students, teachers, and parents. The goal is to make academic administration efficient, transparent, and accessible from anywhere. It allows real-time tracking of grades, attendance, schedules, exam results, and communication between school members.
 
-The platform is built with scalability in mind, making it easy to add new features like online exams, analytics dashboards, or parental reports.
-
 ---
 
 ## Features
 
-### For Students:
-- View grades, attendance, and exam results.  
-- Access class schedules and notifications.  
-- Submit assignments online.  
-- Communicate with teachers through internal messaging.  
-
-### For Teachers:
-- Record and manage student grades.  
-- Track attendance in real time.  
-- Manage class schedules and subjects.  
-- Send notifications and announcements to students or parents.  
-- Generate performance reports for students and classes.  
-
-### For Parents:
-- Monitor child’s grades and attendance.  
-- Receive notifications about exams, assignments, or events.  
-- Communicate with teachers through messages.  
-- Access historical academic records.  
-
-### Administration:
-- Manage school data including classes, subjects, and student/teacher profiles.  
-- Secure authentication and role-based access control.  
-- Real-time updates for all users.  
-- Backup and restore school data.  
+- Student Dashboard (Grades, Attendance, Schedule)  
+- Teacher Dashboard (Class Management, Grade Recording)  
+- Parent Dashboard (Child Progress, Notifications)  
+- Real-time Updates & Notifications  
+- Secure Role-based Authentication  
+- Class, Subject & Exam Management  
 
 ---
 
 ## Screenshots
 
-> **Note:** Add your own screenshots here for better presentation.
+### 1. Student Dashboard
+![Student Dashboard](https://via.placeholder.com/800x400.png?text=Student+Dashboard)
+*View grades, attendance, and class schedules in one place.*
 
-![Dashboard](./screenshots/dashboard.png)  
-*Student Dashboard with grades and schedule overview*
+### 2. Teacher Panel
+![Teacher Dashboard](https://via.placeholder.com/800x400.png?text=Teacher+Dashboard)
+*Manage classes, record grades, and send notifications.*
 
-![Teacher Panel](./screenshots/teacher-panel.png)  
-*Teacher dashboard showing class management and notifications*
+### 3. Parent Dashboard
+![Parent Dashboard](https://via.placeholder.com/800x400.png?text=Parent+Dashboard)
+*Monitor your child’s academic progress.*
 
-![Parent Panel](./screenshots/parent-panel.png)  
-*Parent dashboard monitoring child progress*
+### 4. Notifications System
+![Notifications](https://via.placeholder.com/800x400.png?text=Notifications+System)
+*Receive alerts for exams, assignments, and announcements.*
+
+### 5. Class Management
+![Class Management](https://via.placeholder.com/800x400.png?text=Class+Management)
+*Add, edit, and manage classes and subjects easily.*
 
 ---
 
